@@ -78,7 +78,7 @@ function App() {
     <Route path="/about" element={<About/>}></Route>
     <Route path="/exp" element={<Experience/>}></Route>
     </Routes>
-    <Footer/>
+    {/* //<Footer/> */}
     
   </Router>
   
